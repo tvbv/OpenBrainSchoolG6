@@ -6,20 +6,22 @@ ALS disease solving bootcamp
 
 ### Patients
 
-| challenges | Causes |
-| tailored minervas (and other) | price - Access to people |
-| communication with other (speech inperment) | eye detection + cost + lack of speed and accuracy |
-| medics/surrounding intercommunication | rarity of the disease |
-| clothes | price + avalibility + existence of product that can help them + family not trained to help |
-| money ish governement + long | bureaucracy/politics |
-| difficulties due to being alone | life + illness + lack of local social structures |
-| early detection | science stuff|
-| transportation A->B | price / lack of service / pain and fatigue |
-| house adaptation (steps, bathroom etc...) | cost |
-| psychologyical adaptation | life/disease |
+| Challenges                                    | Causes                                                                                  |
+| --------------------------------------------- | --------------------------------------------------------------------------------------- |
+| Tailored minervas and other aids              | Price - Access to people                                                                |
+| Communication with others (speech impairment) | Eye detection + cost + lack of speed and accuracy                                       |
+| Medics/surrounding intercommunication         | Rarity of the disease                                                                   |
+| Clothes                                       | Price + availability + existence of products that can help + family not trained to help |
+| Monetary issues and government interaction    | Bureaucracy/politics                                                                    |
+| Difficulties due to being alone               | Life + illness + lack of local social structures                                        |
+| Early detection                               | Scientific challenges                                                                   |
+| Transportation A -> B                         | Price / lack of service / pain and fatigue                                              |
+| House adaptation (steps, bathroom, etc.)      | Cost                                                                                    |
+| Psychological adaptation                      | Life/disease                                                                            |
 
 ### Helpers
 
-|challenges | Causes|
-|work not taking account helper situtation | |
-|burnout of helpers | |
+| Challenges                                 | Causes |
+| ------------------------------------------ | ------ |
+| Work not accounting for helper's situation |        |
+| Burnout of helpers                         |        |
